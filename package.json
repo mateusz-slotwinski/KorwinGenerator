@@ -1,0 +1,16 @@
+{
+  "name": "korwingenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node build/app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
